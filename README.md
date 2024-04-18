@@ -4,6 +4,7 @@ Hi 👋 My name is Vimer
 📚 I'm currently working on improving my skills in C# and I'm looking for projects to work on to gain more experience. If you have any suggestions or resources, please let me know!
 
 ---
+
 ### Skills
 
 <p align="left">
@@ -13,11 +14,13 @@ Hi 👋 My name is Vimer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/674667093609938970" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Vimer5410" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture> </a></p>
+
 ---
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Vimer5410"><img src="https://github-readme-stats.vercel.app/api?username=Vimer5410&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vimer5410's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
