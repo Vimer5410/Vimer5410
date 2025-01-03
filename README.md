@@ -14,7 +14,7 @@ Hi 👋 My name is Vimer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vimer5410&theme=github_dark&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vimer5410&theme=github_dark&exclude={exclude}) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vimer5410&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vimer5410&theme=github_dark&utcOffset=UTC+3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vimer5410&theme=github_dark&utcOffset=3)
 
 ---
 
