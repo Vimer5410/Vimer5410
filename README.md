@@ -5,6 +5,19 @@ Hi 👋 My name is Vimer
 
 ---
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+
+![a](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vimer5410&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vimer5410&theme=github_dark&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vimer5410&theme=github_dark&exclude={exclude}) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vimer5410&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vimer5410&theme=github_dark&utcOffset=UTC+3)
+
+---
+
 ### Skills
 
 <p align="left">
@@ -14,18 +27,3 @@ Hi 👋 My name is Vimer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/674667093609938970" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Vimer5410" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture> </a></p>
-
----
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-![a](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vimer5410&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vimer5410&theme=github_dark&exclude={exclude})
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/Vimer5410) 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/Vimer5410) 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/Vimer5410)
-
-
