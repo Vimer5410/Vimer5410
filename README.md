@@ -21,8 +21,5 @@ Hi 👋 My name is Vimer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Vimer5410"><img src="https://github-readme-stats.vercel.app/api?username=Vimer5410&show_icons=true&hide=prs,&count_private=true&title_color=onedark&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vimer5410's GitHub stats" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vimer5410&theme=tokyonight)
 
