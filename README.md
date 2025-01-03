@@ -22,8 +22,8 @@ Hi 👋 My name is Vimer
 <b>My GitHub Stats</b>
 
 
-![a](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Vimer5410}&theme={github_dark})
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/Vimer5410) 
+![a](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vimer5410&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vimer5410&theme=github_dark&exclude={exclude})
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/Vimer5410) 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/Vimer5410) 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/Vimer5410)
