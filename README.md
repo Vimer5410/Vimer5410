@@ -46,12 +46,12 @@ Always open to learning and taking on new challenges in the .NET ecosystem.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vimer5410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Vimer5410&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vimer5410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Vimer5410&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vimer5410&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vimer5410&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 
 </div>
 
@@ -67,10 +67,6 @@ Always open to learning and taking on new challenges in the .NET ecosystem.
 <a href="https://github.com/Vimer5410" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Vimer5410&label=Profile%20Views&color=2F81F7&style=for-the-badge" />
 
 </div>
 
