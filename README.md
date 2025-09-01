@@ -46,10 +46,6 @@ Always open to learning and taking on new challenges in the .NET ecosystem.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vimer5410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Vimer5410&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vimer5410&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 
