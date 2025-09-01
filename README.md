@@ -1,29 +1,81 @@
-Hi 👋 My name is Vimer
-======================
+<div align="center">
+  
+# 👨‍💻 Vimer
 
-📚 I'm currently working on improving my skills in C# and I'm looking for projects to work on to gain more experience. If you have any suggestions or resources, please let me know!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=.NET+Developer;Exploring+Cryptography;Learning+Blazor+Server)](https://git.io/typing-svg)
 
----
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-![a](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vimer5410&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vimer5410&theme=github_dark&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vimer5410&theme=github_dark&exclude={exclude}) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vimer5410&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vimer5410&theme=github_dark&utcOffset=3)
+</div>
 
 ---
 
-### Skills
+## 🎯 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/adamalston/adamalston/master/assets/hello.gif">
+
+Currently working with **.NET** and **C#**, with growing interest in:
+
+- 🔐 Cryptography implementations in C#
+- 🌐 Blazor Server web development  
+- 📚 Clean code practices and architecture
+
+Always open to learning and taking on new challenges in the .NET ecosystem.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Primary Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 </p>
 
-### Socials
+### Also familiar with
+<p>
+  <img src="https://skillicons.dev/icons?i=git,java,python,html,css,vscode&theme=dark" />
+</p>
 
-<p align="left"> <a href="https://discord.com/users/674667093609938970" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Vimer5410" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture> </a></p>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vimer5410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Vimer5410&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimer5410&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vimer5410&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://discord.com/users/674667093609938970" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://github.com/Vimer5410" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Vimer5410&label=Profile%20Views&color=2F81F7&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>🚀 Open to interesting projects and collaboration opportunities</sub>
+</div>
